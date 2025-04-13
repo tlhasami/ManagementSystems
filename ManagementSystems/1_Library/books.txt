@@ -1,0 +1,101 @@
+20
+101
+C++ Primer
+Lippman
+1
+1
+102
+Clean Code
+Robert Martin
+0
+-1
+103
+The Pragmatic Programmer
+Andy Hunt
+1
+3
+104
+Design Patterns
+GoF
+0
+-1
+105
+Effective C++
+Scott Meyers
+1
+5
+106
+You Don't Know JS
+Kyle Simpson
+0
+-1
+107
+Python Crash Course
+Eric Matthes
+1
+7
+108
+Fluent Python
+Luciano Ramalho
+0
+-1
+109
+Think Python
+Allen B. Downey
+0
+-1
+110
+Data Structures
+Weiss
+1
+9
+111
+Algorithms
+Sedgewick
+0
+-1
+112
+Intro to ML
+Alpaydin
+1
+11
+113
+Deep Learning
+Goodfellow
+0
+-1
+114
+AI: A Modern Approach
+Russell
+1
+13
+115
+Database Systems
+Elmasri
+0
+-1
+116
+Computer Networks
+Tanenbaum
+1
+15
+117
+Operating Systems
+Silberschatz
+0
+-1
+118
+Computer Architecture
+Hennessy
+0
+-1
+119
+Web Dev Guide
+MDN
+1
+17
+120
+Cybersecurity Essentials
+Cisco
+0
+-1

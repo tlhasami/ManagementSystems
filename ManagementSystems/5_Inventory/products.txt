@@ -1,0 +1,205 @@
+51
+100
+Wireless Mouse
+29
+786.17
+101
+Gaming Keyboard
+81
+48.90
+102
+LED Monitor
+55
+810.52
+103
+Bluetooth Speaker
+23
+728.96
+104
+USB-C Charger
+46
+380.15
+105
+External Hard Drive
+65
+885.00
+106
+Noise Cancelling Headphones
+23
+540.74
+107
+Smartphone Case
+70
+517.93
+108
+Webcam
+60
+901.19
+109
+Portable SSD
+99
+193.34
+110
+Smartwatch
+76
+612.22
+111
+Fitness Tracker
+88
+283.06
+112
+Laptop Stand
+27
+39.67
+113
+Mechanical Keyboard
+7
+806.39
+114
+Wireless Earbuds
+70
+312.19
+115
+Power Bank
+7
+737.86
+116
+HDMI Cable
+98
+646.12
+117
+Smart Light Bulb
+23
+440.63
+118
+Router
+81
+600.21
+119
+Graphics Tablet
+85
+222.43
+120
+Gaming Chair
+87
+991.22
+121
+VR Headset
+9
+511.66
+122
+Microphone
+27
+224.82
+123
+Smart Thermostat
+63
+557.17
+124
+Smart Door Lock
+41
+539.50
+125
+Dash Cam
+15
+50.29
+126
+Bluetooth Tracker
+5
+863.29
+127
+E-Reader
+39
+241.26
+128
+Drone
+54
+566.99
+129
+Security Camera
+14
+831.82
+130
+Streaming Stick
+84
+632.26
+131
+Gaming Console
+60
+206.55
+132
+Electric Toothbrush
+23
+612.17
+133
+Robot Vacuum
+92
+106.72
+134
+Portable Projector
+41
+685.14
+135
+3D Printer
+91
+54.80
+136
+Wireless Charger
+29
+88.68
+137
+Smart Plug
+20
+435.47
+138
+Thermal Printer
+72
+394.35
+139
+Photo Scanner
+3
+500.20
+140
+Home Theater System
+63
+330.35
+141
+Soundbar
+34
+374.18
+142
+Air Purifier
+65
+93.26
+143
+Smart Scale
+58
+124.13
+144
+Tablet
+55
+522.09
+145
+Laser Printer
+86
+848.55
+146
+Noise Machine
+91
+157.16
+147
+Smart TV
+3
+51.51
+148
+Portable Monitor
+85
+27.25
+149
+WiFi Extender
+65
+256.17
+234
+New Product
+12
+1200.30

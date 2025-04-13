@@ -1,0 +1,223 @@
+29
+1017
+Sana Shams
+3.9
+5
+Math
+Physics
+Biology
+Chemistry
+Statistics
+1027
+Rashid Ali
+3.9
+5
+Math
+Biology
+Physics
+Chemistry
+History
+1004
+Ayesha Khan
+3.8
+4
+Physics
+English
+Biology
+Statistics
+1010
+Khadija Bibi
+3.8
+3
+History
+English
+Physics
+1006
+Mariam Noor
+3.4
+4
+Math
+English
+History
+Biology
+1007
+Hassan Shah
+3.1
+3
+Physics
+Chemistry
+Biology
+1001
+Ahmed Ali
+3.5
+4
+Math
+Physics
+Chemistry
+Biology
+1009
+Tariq Jameel
+3.3
+4
+Computer Science
+Math
+Physics
+Biology
+1005
+Ali Raza
+3.6
+3
+Chemistry
+Math
+Computer Science
+1011
+Usman Tariq
+3.6
+4
+Math
+History
+Chemistry
+Computer Science
+1012
+Rana Malik
+3.2
+3
+Physics
+English
+Statistics
+1013
+Sara Imran
+3.5
+4
+Math
+Physics
+Chemistry
+Computer Science
+1014
+Bilal Khan
+3.7
+3
+History
+Biology
+Math
+1015
+Lubna Zafar
+3.1
+4
+Chemistry
+Physics
+English
+History
+1016
+Yusuf Ahmad
+3.4
+3
+Math
+Computer Science
+Physics
+1002
+Fatima Zahra
+3.7
+3
+English
+Chemistry
+Physics
+1018
+Salman Hussain
+3.6
+4
+English
+Physics
+Math
+History
+1019
+Maryam Aslam
+3
+3
+Biology
+History
+Computer Science
+1020
+Omar Ameen
+3.7
+5
+Math
+Physics
+Computer Science
+History
+Biology
+1021
+Musa Ali
+3.3
+4
+Math
+Physics
+Chemistry
+Statistics
+1022
+Rehana Safdar
+3.8
+3
+Math
+History
+Computer Science
+1023
+Faisal Qureshi
+3.4
+4
+English
+Math
+Biology
+Physics
+1024
+Adeel Khan
+3.5
+3
+Chemistry
+Math
+Computer Science
+1025
+Nadia Noor
+3.6
+4
+Physics
+English
+History
+Biology
+1026
+Imran Aziz
+3.2
+3
+Physics
+Chemistry
+Math
+1003
+Omar Farooq
+3.2
+3
+Math
+Biology
+History
+1028
+Maha Yousuf
+3.5
+4
+Math
+Chemistry
+Computer Science
+Biology
+1029
+Ahmed Raza
+3.6
+3
+History
+Physics
+Math
+1030
+Sobia Khan
+3.8
+4
+English
+Chemistry
+Biology
+Statistics
