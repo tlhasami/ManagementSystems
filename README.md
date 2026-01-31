@@ -1,42 +1,35 @@
-# ManagementSystems
-Console Based Managements Systems Semester II Project using OOPs
+# Console-Based Management Systems (Semester II Project)
 
-The List Of the Followring Console Based Management Systems ( 400 - 550 lines) :
+## Description
+This repository contains a collection of **console-based management system projects** developed using **C++ and Object-Oriented Programming (OOP)** concepts.  
+These projects are designed for learning and practicing OOP, file handling, and basic data management in real-world scenarios.  
+Each project is console-based, lightweight, and typically ranges between **400–550 lines of code**.
 
-1 - Library Management System ( Done )
+---
 
-2 - Banking System ( Done )
+## Completed Projects
+The following management systems are implemented and included in this repository:
 
-3 . Student Record System ( Done )
+1. **Library Management System** – Manage books, issue/return records, and library members.  
+2. **Banking System** – Manage customer accounts, deposits, withdrawals, and transaction records.  
+3. **Student Record System** – Track student details, grades, and academic performance.  
+4. **Inventory Management System** – Manage stock, product details, and inventory updates.  
+5. **Contact Management System** – Store, search, and manage personal or business contacts.  
+6. **Online Voting System** – Simulate a voting system with candidate selection and vote counting.  
+7. **Calculator Application** – Basic arithmetic operations with a simple console interface.  
+8. **Flight Reservation System** – Manage flight schedules, bookings, and passenger details.
 
-4 . Vehicle Rental System
+---
 
-5 . Inventory Management System ( Done )
+## Features
+- Implemented using **OOP concepts**: classes, objects, inheritance, and polymorphism.  
+- Uses **file handling** to store and retrieve data persistently.  
+- Simple and interactive **console-based user interface**.  
+- Modular design for easy understanding and expansion.  
 
-7 . Restaurant Management System
+---
 
-8 . Online Ticket Booking System
-
-9 . Contant Management System ( Done )
-
-10 . Movie Ticket Reservation System
- 
-12 . Hotel Reservation System
-
-13 . Student Enrollment System
-
-14 . Online Quiz Application
-
-15 . Employee Payroll System
-
-16 . Billin System for a Small Business
-
-17 . Hospital Management System
-
-18 . Online Voting System ( Done )
-
-20 . Online Course Management 
-
-21 . Calculator Application ( Done )
-
-22 . Flight Reservation System ( Done )
+## Usage
+1. Clone the repository:
+```bash
+git clone https://github.com/tlhasami/ManagementSystems.git
